@@ -1,0 +1,24 @@
+_repo: Government-By-the-Brewers-_9406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keitel, Adolph
+    gutenberg_agent_id: '3049'
+    url: http://www.gutenberg.org/2009/agents/3049
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brewing industry -- United States'
+- !lcc 'HV'
+- !lcsh 'United States Brewers'' Association'
+- !lcsh 'Beer'
+- GITenberg
+title: Government By the Brewers?
+url: http://www.gutenberg.org/ebooks/9406
