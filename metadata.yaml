@@ -1,11 +1,16 @@
 _repo: Government-By-the-Brewers-_9406
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Keitel, Adolph
     gutenberg_agent_id: '3049'
     url: http://www.gutenberg.org/2009/agents/3049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9406#Government-By-the-Brewers-
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
